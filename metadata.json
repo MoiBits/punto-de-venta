@@ -1,0 +1,6 @@
+{
+  "name": "POS Pro",
+  "description": "Punto de venta profesional con inventarios, facturación electrónica, escáner QR, impresión térmica y analíticas en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
